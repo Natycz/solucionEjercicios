@@ -1,0 +1,7 @@
+package ejercicios;
+
+public class SumaTest {
+    public static void main(String[] args) {
+        Suma.main(new String[]{});
+    }
+}

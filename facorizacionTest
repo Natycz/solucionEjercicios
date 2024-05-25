@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class FactorizacionTest {
+    public static void main(String[] args) {
+        Factorizacion.main(new String[]{});
+    }
+}

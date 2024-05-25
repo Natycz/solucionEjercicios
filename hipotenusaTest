@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class HipotenusaTest {
+    public static void main(String[] args) {
+        Hipotenusa.main(new String[]{});
+    }
+}

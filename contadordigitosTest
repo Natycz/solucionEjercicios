@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class ContadorDigitosTest {
+    public static void main(String[] args) {
+        ContadorDigitos.main(new String[]{});
+    }
+}

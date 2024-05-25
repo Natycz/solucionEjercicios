@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class OrdenamientoTest {
+    public static void main(String[] args) {
+        Ordenamiento.main(new String[]{});
+    }
+}

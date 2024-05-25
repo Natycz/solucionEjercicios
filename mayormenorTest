@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class MayorMenorTest {
+    public static void main(String[] args) {
+        MayorMenor.main(new String[]{});
+    }
+}

@@ -1,0 +1,8 @@
+package ListaEjercicio;
+
+
+public class TablaMultiplicarTest {
+    public static void main(String[] args) {
+        TablaMultiplicar.main(new String[]{});
+    }
+}

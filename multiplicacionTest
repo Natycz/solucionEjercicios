@@ -1,0 +1,7 @@
+package ejercicios;
+
+public class MultiplicacionTest {
+    public static void main(String[] args) {
+        Multiplicacion.main(new String[]{});
+    }
+}

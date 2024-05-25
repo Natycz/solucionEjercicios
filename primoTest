@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class PrimoTest {
+    public static void main(String[] args) {
+        Primo.main(new String[]{});
+    }
+}

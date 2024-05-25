@@ -1,0 +1,7 @@
+package ListaEjercicio;
+
+public class PromedioTest {
+    public static void main(String[] args) {
+        Promedio.main(new String[]{});
+    }
+}
